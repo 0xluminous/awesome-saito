@@ -44,7 +44,6 @@ This is a list of awesome content to get up to speed on Saito.
 * [The Scalability Trilemma is either Irrelevant or Wrong: here is why](https://saitoofficial.medium.com/the-scalability-trilemma-is-either-irrelevant-or-wrong-heres-why-bd1e8fb51061)
 * [The Infura Problem](https://saitoofficial.medium.com/the-infura-problem-fe68866484ec)
 * [Interesting discussion about Blockchain Economics between Vitalik Buterin and David Lancashire](https://www.reddit.com/r/CryptoCurrency/comments/pd1xc1/interesting_discussion_about_blockchain_economics/)
-* [Confessions of a ‘BSV Shill’](https://saitoofficial.medium.com/confessions-of-a-bsv-shill-3961163f69b)
 * [Eliminating 51% Attacks in Proof-of-Work Blockchains](https://saitoofficial.medium.com/eliminating-51-attacks-in-proof-of-work-blockchains-e95c60d6085a)
 * [The Ver Attack: The Biggest Vulnerability in Bitcoin?](https://saitoofficial.medium.com/the-ver-attack-the-biggest-vulnerability-in-bitcoin-a9378138ea45)
 * [Wrestling with the Scalability Trilemma](https://saitoofficial.medium.com/wrestling-with-the-scalability-trilemma-1eef0426673)
