@@ -41,6 +41,15 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Saito. Run blockchain applications directly in your browser.](https://medium.com/4svio/saito-303a7884ef18) Saito research article
 * [Transaction Rebroadcasting](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Transaction-Rebroadcasting.pdf) pdf
 * [Routing Work](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Routing-Work.pdf) pdf
+* [The Scalability Trilemma is either Irrelevant or Wrong: here is why](https://saitoofficial.medium.com/the-scalability-trilemma-is-either-irrelevant-or-wrong-heres-why-bd1e8fb51061)
+* [The Infura Problem](https://saitoofficial.medium.com/the-infura-problem-fe68866484ec)
+* [Interesting discussion about Blockchain Economics between Vitalik Buterin and David Lancashire](https://www.reddit.com/r/CryptoCurrency/comments/pd1xc1/interesting_discussion_about_blockchain_economics/)
+* [Confessions of a ‘BSV Shill’](https://saitoofficial.medium.com/confessions-of-a-bsv-shill-3961163f69b)
+* [Eliminating 51% Attacks in Proof-of-Work Blockchains](https://saitoofficial.medium.com/eliminating-51-attacks-in-proof-of-work-blockchains-e95c60d6085a)
+* [The Ver Attack: The Biggest Vulnerability in Bitcoin?](https://saitoofficial.medium.com/the-ver-attack-the-biggest-vulnerability-in-bitcoin-a9378138ea45)
+* [Wrestling with the Scalability Trilemma](https://saitoofficial.medium.com/wrestling-with-the-scalability-trilemma-1eef0426673)
+* [Blockchain Myths #1 — Someone will always pay to run the network](https://saitoofficial.medium.com/blockchain-myths-1-someone-will-always-pay-to-run-the-network-44d3dc56f04a)
+* [Blockchain Myths #2 — A Blockchain is a Permanent Ledger](https://saitoofficial.medium.com/blockchain-myths-2-a-blockchain-is-a-permanent-ledger-fd1e99409df5)
 * [Method and system for securing a blockchain with proof-of-transactions](https://patents.google.com/patent/US10230530B2/en) patent #1
 * [Method and System for Implementing Automatic Transaction Rebroadcasting for Transient Blockchains](https://patents.google.com/patent/US20190296915A1/en) patent #2
 
