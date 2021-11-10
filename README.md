@@ -32,6 +32,7 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [How to Build a Blockchain that Will Never Collapse](https://www.youtube.com/watch?v=agppUdX9YvI) explains Saito's automatic transaction rebroadcasting in the simplest way possible
 * [Poker and the Golden Ticket Lottery](https://www.youtube.com/watch?v=Vim0qeiSVHo) the golden ticket lottery explained with poker
 * [Openness not Decentralization ](https://www.youtube.com/watch?v=C81D6B9sgH8) openness + self-sufficiency are what matter in blockchain
+* [Saito Crypto Explained (A Piece of the Web3 Puzzle)](https://www.youtube.com/watch?v=US4um2nuxfw) Saito is the next wave of open infrastructure for web3
 
 ## Articles
 * [Saito Whitepaper](https://saito.io/saito-whitepaper.pdf) Saito fixes the collective action problems that impede scaling in proof-of-work and proof-of stake blockchains
@@ -45,6 +46,11 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 
 ## Interview Videos
 * [Saito x Mixin Network AMA](https://www.youtube.com/watch?v=0UOxmQrfrB8)
+* [SAITO NETWORK | NOV UPDATE with Richard Parris $SAITO $DOT #WEB3](https://www.youtube.com/watch?v=t2kU28Oew6g) discussion about current market, team updates, community engagement plans, partnerships and latest development
+* [Talking Saito & Blockchain with David Lancashire (Co-Founder of Saito)](https://www.youtube.com/watch?v=lUm-ekutIJk) discussion about consensus model
+* [Saito Review: Fixing the Infura Problem for the Web3 | with David Lancashire](https://www.youtube.com/watch?v=eZUQU8vr_2Y)
+* [David Lancashire of Saito](https://www.youtube.com/watch?v=fCnj27Oq3to) discussion about scaling problem, fundraising, and the opportunity to move email, social networks, payment channels, and more to the blockchain.
+* [Solving the trilemma [with Saito's David Lancashire]](https://www.youtube.com/watch?v=SxbCGjjpXeI) Saito aims to solve market failures by incentivizing data sharing directly through the consensus mechanism. 
 
 ## Applications
 * [Saito Arcade](https://saito.io/arcade/) a dozen games built on Saito including poker, chess, blackjack and more
@@ -53,6 +59,7 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
 * [Saito solves an age old blockchain problem, scales with growth, and can do well in price (part 1)](https://www.youtube.com/watch?v=8UTfNWH9Ap4) Saito research video
 * [Saito a slightly deeper look... (part2)](https://www.youtube.com/watch?v=UxlRHHlOHyo) Saito research video #2
+* [Saito, Blockchain Economics and Scaling](https://www.youtube.com/watch?v=r7pyaZqvX0Q) recording of a presentation given by Saito Co-Founder, Richard Parris
 
 
 ## Town Hall Videos
