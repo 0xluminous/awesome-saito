@@ -19,7 +19,8 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 - [Advanced Videos](#advanced-videos)
 - [Applications](#applications)
 - [Town Hall Videos](#town-hall-videos)
-- [Trading](#trading)
+- [Development](#development)
+- [Financial](#financial)
 - [Social Media](#social-media)
 
 ## Beginner Videos
@@ -33,9 +34,14 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Openness not Decentralization ](https://www.youtube.com/watch?v=C81D6B9sgH8) openness + self-sufficiency are what matter in blockchain
 
 ## Articles
-* [Saito Whitepaper](https://saito.io/saito-whitepaper.pdf) Saito fixes the collective action problems that impede scaling in proof-of-work and proof-ofstake blockchains
+* [Saito Whitepaper](https://saito.io/saito-whitepaper.pdf) Saito fixes the collective action problems that impede scaling in proof-of-work and proof-of stake blockchains
+* [Saito Litepaper](https://github.com/SaitoTech/saito-lite/blob/master/docs/saito-litepaper.pdf) lite version of whitepaper
 * [The Zen of Saito](https://medium.com/@0xluminous/the-zen-of-saito-5d7ca977ac4f) Saito is the first blockchain DAO
 * [Saito. Run blockchain applications directly in your browser.](https://medium.com/4svio/saito-303a7884ef18) Saito research article
+* [Transaction Rebroadcasting](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Transaction-Rebroadcasting.pdf) pdf
+* [Routing Work](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Routing-Work.pdf) pdf
+* [Method and system for securing a blockchain with proof-of-transactions](https://patents.google.com/patent/US10230530B2/en) patent #1
+* [Method and System for Implementing Automatic Transaction Rebroadcasting for Transient Blockchains](https://patents.google.com/patent/US20190296915A1/en) patent #2
 
 ## Interview Videos
 * [Saito x Mixin Network AMA](https://www.youtube.com/watch?v=0UOxmQrfrB8)
@@ -55,11 +61,22 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [SAITO Community Town Hall #3](https://www.youtube.com/watch?v=XiljMugIJfc)
 * [SAITO Community Town Hall #4](https://www.youtube.com/watch?v=Gt_TojhmaxI)
 
-## Trading
-* [Uniswap](https://org.saito.tech/saito-ido-guide/)
-* [Gate](https://www.gate.io/trade/SAITO_USDT)
+## Development
+* [saito-rust](https://github.com/SaitoTech/saito-rust) Saito reference implementation
+* [saito-lite](https://github.com/SaitoTech/saito-lite) Saito implementation written in JS
+* [Open Grant Proposal](https://github.com/w3f/Grants-Program/blob/master/applications/saito-game-protocol-and-engine.md) docs
+* [Polkadot Integration](https://github.com/SaitoTech/saito-lite/blob/master/docs/polkadot.md) docs
+* [The Saito Game Engine](https://github.com/SaitoTech/saito-lite/tree/master/docs/saito-game-engine) docs
+* [Tutorials](https://org.saito.tech/introduction-to-saito-development/)
+* [Saito Applications](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Applications.pdf)
+
+## Financial
 * [CoinMarketCap](https://coinmarketcap.com/currencies/saito/)
 * [CoinGecko](https://www.coingecko.com/en/coins/saito)
+* [Uniswap](https://org.saito.tech/saito-ido-guide/)
+* [Gate](https://www.gate.io/trade/SAITO_USDT)
+* [Tokenomics](https://saito.io/saito-tokenomics.pdf)
+
 
 ## Social Media
 * [Twitter](https://twitter.com/SaitoOfficial)
@@ -71,6 +88,7 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Discord](https://discord.com/invite/HjTFh9Tfec)
 * [Reddit](https://www.reddit.com/r/SaitoIO/)
 * [YouTube](https://www.youtube.com/channel/UCRUhZVAUH4JyWUFmxm5P6dQ)
+* [GitHub](https://github.com/SaitoTech)
 
 ---
 
