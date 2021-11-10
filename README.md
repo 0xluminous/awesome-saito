@@ -102,6 +102,7 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Telegram Announcements](https://t.me/SaitoIOann)
 * [Discord](https://discord.com/invite/HjTFh9Tfec)
 * [Reddit](https://www.reddit.com/r/SaitoIO/)
+* [Reddit Community](https://www.reddit.com/r/SaitoCrypto/)
 * [YouTube](https://www.youtube.com/channel/UCRUhZVAUH4JyWUFmxm5P6dQ)
 * [GitHub](https://github.com/SaitoTech)
 
