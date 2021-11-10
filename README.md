@@ -17,7 +17,9 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 - [Interview Videos](#interview-videos)
 - [Articles](#articles)
 - [Advanced Videos](#advanced-videos)
+- [Applications](#applications)
 - [Town Hall Videos](#town-hall-videos)
+- [Trading](#trading)
 - [Social Media](#social-media)
 
 ## Beginner Videos
@@ -35,16 +37,16 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [The Zen of Saito](https://medium.com/@0xluminous/the-zen-of-saito-5d7ca977ac4f) Saito is the first blockchain DAO
 * [Saito. Run blockchain applications directly in your browser.](https://medium.com/4svio/saito-303a7884ef18) Saito research article
 
-
 ## Interview Videos
 * [Saito x Mixin Network AMA](https://www.youtube.com/watch?v=0UOxmQrfrB8)
 
+## Applications
+* [Saito Arcade](https://saito.io/arcade/) a dozen games built on Saito including poker, chess, blackjack and more
 
 ## Advanced Videos
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
 * [Saito solves an age old blockchain problem, scales with growth, and can do well in price (part 1)](https://www.youtube.com/watch?v=8UTfNWH9Ap4) Saito research video
 * [Saito a slightly deeper look... (part2)](https://www.youtube.com/watch?v=UxlRHHlOHyo) Saito research video #2
-
 
 
 ## Town Hall Videos
@@ -53,6 +55,11 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [SAITO Community Town Hall #3](https://www.youtube.com/watch?v=XiljMugIJfc)
 * [SAITO Community Town Hall #4](https://www.youtube.com/watch?v=Gt_TojhmaxI)
 
+## Trading
+* [Uniswap](https://org.saito.tech/saito-ido-guide/)
+* [Gate](https://www.gate.io/trade/SAITO_USDT)
+* [CoinMarketCap](https://coinmarketcap.com/currencies/saito/)
+* [CoinGecko](https://www.coingecko.com/en/coins/saito)
 
 ## Social Media
 * [Twitter](https://twitter.com/SaitoOfficial)
