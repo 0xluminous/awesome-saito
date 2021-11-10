@@ -8,7 +8,7 @@ Awesome Saito
 
 <a href="https://saito.io/">Saito</a> is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.
 
-This is a list of articles and videos to get up to speed on why Saito is so Awesome.
+This is a list of awesome content to get up to speed on Saito.
 
 
 ## List of content
