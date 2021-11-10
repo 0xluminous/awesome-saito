@@ -14,13 +14,13 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 ## List of content
 
 - [Beginner Videos](#beginner-videos)
-- [Interview Videos](#interview-videos)
 - [Articles](#articles)
-- [Advanced Videos](#advanced-videos)
+- [Interview Videos](#interview-videos)
 - [Applications](#applications)
 - [Town Hall Videos](#town-hall-videos)
 - [Development](#development)
 - [Financial](#financial)
+- [Advanced Videos](#advanced-videos)
 - [Social Media](#social-media)
 
 ## Beginner Videos
@@ -55,13 +55,6 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 ## Applications
 * [Saito Arcade](https://saito.io/arcade/) a dozen games built on Saito including poker, chess, blackjack and more
 
-## Advanced Videos
-* [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
-* [Saito solves an age old blockchain problem, scales with growth, and can do well in price (part 1)](https://www.youtube.com/watch?v=8UTfNWH9Ap4) Saito research video
-* [Saito a slightly deeper look... (part2)](https://www.youtube.com/watch?v=UxlRHHlOHyo) Saito research video #2
-* [Saito, Blockchain Economics and Scaling](https://www.youtube.com/watch?v=r7pyaZqvX0Q) recording of a presentation given by Saito Co-Founder, Richard Parris
-
-
 ## Town Hall Videos
 * [SAITO Community Town Hall #1](https://www.youtube.com/watch?v=ky9aYWMeQEY)
 * [SAITO Community Town Hall #2](https://www.youtube.com/watch?v=HTC7lsGibTI)
@@ -83,6 +76,12 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Uniswap](https://org.saito.tech/saito-ido-guide/)
 * [Gate](https://www.gate.io/trade/SAITO_USDT)
 * [Tokenomics](https://saito.io/saito-tokenomics.pdf)
+
+## Advanced Videos
+* [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
+* [Saito solves an age old blockchain problem, scales with growth, and can do well in price (part 1)](https://www.youtube.com/watch?v=8UTfNWH9Ap4) Saito research video
+* [Saito a slightly deeper look... (part2)](https://www.youtube.com/watch?v=UxlRHHlOHyo) Saito research video #2
+* [Saito, Blockchain Economics and Scaling](https://www.youtube.com/watch?v=r7pyaZqvX0Q) recording of a presentation given by Saito Co-Founder, Richard Parris
 
 
 ## Social Media
