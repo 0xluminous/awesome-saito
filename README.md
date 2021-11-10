@@ -67,8 +67,8 @@ This is a list of articles and videos to get up to speed on why Saito is so Awes
 * [Open Grant Proposal](https://github.com/w3f/Grants-Program/blob/master/applications/saito-game-protocol-and-engine.md) docs
 * [Polkadot Integration](https://github.com/SaitoTech/saito-lite/blob/master/docs/polkadot.md) docs
 * [The Saito Game Engine](https://github.com/SaitoTech/saito-lite/tree/master/docs/saito-game-engine) docs
-* [Tutorials](https://org.saito.tech/introduction-to-saito-development/)
-* [Saito Applications](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Applications.pdf)
+* [Saito Tutorials](https://org.saito.tech/introduction-to-saito-development/)
+* [Saito Applications](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Applications.pdf) pdf
 
 ## Financial
 * [CoinMarketCap](https://coinmarketcap.com/currencies/saito/)
