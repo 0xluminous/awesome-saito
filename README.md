@@ -83,6 +83,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [CoinGecko](https://www.coingecko.com/en/coins/saito)
 * [Uniswap](https://org.saito.tech/saito-ido-guide/)
 * [Gate](https://www.gate.io/trade/SAITO_USDT)
+* [RelayX](https://relayx.com/market/SAITO)
 * [Tokenomics](https://saito.io/saito-tokenomics.pdf)
 
 ## Advanced Videos
