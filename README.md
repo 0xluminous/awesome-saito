@@ -104,6 +104,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [Reddit Community](https://www.reddit.com/r/SaitoCrypto/)
 * [YouTube](https://www.youtube.com/channel/UCRUhZVAUH4JyWUFmxm5P6dQ)
 * [GitHub](https://github.com/SaitoTech)
+* [LunarCrush](https://lunarcrush.com/coins/saito/saito)
 
 ---
 
