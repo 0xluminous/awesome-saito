@@ -86,6 +86,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [RelayX](https://relayx.com/market/SAITO)
 * [Tokenomics](https://saito.io/saito-tokenomics.pdf)
 * [ERC-20 Contract](https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B)
+* [BEP-20 Contract](https://bscscan.com/address/0x3c6dad0475d3a1696b359dc04c99fd401be134da)
 
 ## Advanced Videos
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
