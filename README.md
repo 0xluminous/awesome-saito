@@ -65,9 +65,13 @@ This is a list of awesome content to get up to speed on Saito.
 
 ## Town Hall Videos
 * [SAITO Community Town Hall #1](https://www.youtube.com/watch?v=ky9aYWMeQEY)
+  * [Recap and Highlights](https://org.saito.tech/saito-community-town-hall-1-highlights-and-recap/) article
 * [SAITO Community Town Hall #2](https://www.youtube.com/watch?v=HTC7lsGibTI)
+  * [Recap and Highlights](https://org.saito.tech/saito-community-town-hall-2-highlights-and-recap/) article
 * [SAITO Community Town Hall #3](https://www.youtube.com/watch?v=XiljMugIJfc)
+  * [Recap and Highlights](https://org.saito.tech/saito-community-town-hall-3-highlights-and-recap/) article
 * [SAITO Community Town Hall #4](https://www.youtube.com/watch?v=Gt_TojhmaxI)
+  * [Recap and Highlights](https://org.saito.tech/saito-community-town-hall-4-highlights-and-recap/) article
 
 ## Development
 * [saito-rust](https://github.com/SaitoTech/saito-rust) Saito reference implementation
