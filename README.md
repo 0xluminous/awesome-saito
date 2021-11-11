@@ -85,6 +85,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [Gate](https://www.gate.io/trade/SAITO_USDT)
 * [RelayX](https://relayx.com/market/SAITO)
 * [Tokenomics](https://saito.io/saito-tokenomics.pdf)
+* [ERC-20 Contract](https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B)
 
 ## Advanced Videos
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
