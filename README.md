@@ -84,11 +84,11 @@ This is a list of awesome content to get up to speed on Saito.
 * [Uniswap](https://org.saito.tech/saito-ido-guide/)
 * [Gate](https://www.gate.io/trade/SAITO_USDT)
 * [RelayX](https://relayx.com/market/SAITO)
-* [Tokenomics](https://saito.io/saito-tokenomics.pdf)
 * [ERC-20 Contract](https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B)
 * [BEP-20 Contract](https://bscscan.com/address/0x3c6dad0475d3a1696b359dc04c99fd401be134da)
 * [SAITO/ETH Uniswap](https://v2.info.uniswap.org/pair/0xdfcf744c8ae896e8631ba9b9dc717546646f6708)
 * [SAITO/USDT Uniswap](https://info.uniswap.org/#/pools/0x19f83460e387f1b01f94b85c2532ebc15b0b712e)
+* [Tokenomics](https://saito.io/saito-tokenomics.pdf)
 
 ## Advanced Videos
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
