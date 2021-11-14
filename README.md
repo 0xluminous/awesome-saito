@@ -112,6 +112,8 @@ This is a list of awesome content to get up to speed on Saito.
 * [Reddit](https://www.reddit.com/r/SaitoIO/)
 * [Reddit Community](https://www.reddit.com/r/SaitoCrypto/)
 * [YouTube](https://www.youtube.com/channel/UCRUhZVAUH4JyWUFmxm5P6dQ)
+* [Spotify](https://open.spotify.com/show/7fjh4SpOoMEmw8LLGerzaQ)
+* [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-saito-social/id1462267012)
 * [GitHub](https://github.com/SaitoTech)
 * [LunarCrush](https://lunarcrush.com/coins/saito/saito)
 
