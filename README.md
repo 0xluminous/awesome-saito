@@ -60,6 +60,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [Saito Review: Fixing the Infura Problem for the Web3 | with David Lancashire](https://www.youtube.com/watch?v=eZUQU8vr_2Y)
 * [David Lancashire of Saito](https://www.youtube.com/watch?v=fCnj27Oq3to) discussion about scaling problem, fundraising, and the opportunity to move email, social networks, payment channels, and more to the blockchain.
 * [Solving the trilemma [with Saito's David Lancashire]](https://www.youtube.com/watch?v=SxbCGjjpXeI) Saito aims to solve market failures by incentivizing data sharing directly through the consensus mechanism. 
+* [CryptoKings Saito](https://www.youtube.com/watch?v=wdmRs6ZjFTk) a look into the mind of David, his vision and what drives his ambition in the Crypto sphere
 
 ## Applications
 * [Saito Arcade](https://saito.io/arcade/) a dozen games built on Saito including poker, chess, blackjack and more
@@ -100,6 +101,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [Saito solves an age old blockchain problem, scales with growth, and can do well in price (part 1)](https://www.youtube.com/watch?v=8UTfNWH9Ap4) Saito research video
 * [Saito a slightly deeper look... (part 2)](https://www.youtube.com/watch?v=UxlRHHlOHyo) Saito research video #2
 * [Saito, Blockchain Economics and Scaling](https://www.youtube.com/watch?v=r7pyaZqvX0Q) recording of a presentation given by Saito Co-Founder, Richard Parris
+
 
 
 ## Social Media
