@@ -24,6 +24,7 @@ This is a list of awesome content to get up to speed on Saito.
 - [Social Media](#social-media)
 
 ## Beginner Videos
+* [Openness not Decentralization ](https://www.youtube.com/watch?v=C81D6B9sgH8) openness + self-sufficiency are what matter in blockchain, a great place to start learning about Saito
 * [How Inception Fixes the Infura Problem](https://www.youtube.com/watch?v=fJGuxcEvats) learn how to scale up a public blockchain without letting the private sector rip it apart
 * [Can the Private Sector pay to Scale an Open Blockchain?](https://www.youtube.com/watch?v=6gXjUnSyDrM) how to get the private sector to pay for an open network layer
 * [Fixing the Tragedy of the Commons in Blockchain](https://www.youtube.com/watch?v=YhC6hXAwBAU) one of the biggest problems with blockchains is solved in Saito
@@ -31,7 +32,6 @@ This is a list of awesome content to get up to speed on Saito.
 * [The Magic of Routing Work](https://www.youtube.com/watch?v=7LQQWOIeWSw) secret sauce how Saito produces blocks and processes transactions
 * [How to Build a Blockchain that Will Never Collapse](https://www.youtube.com/watch?v=agppUdX9YvI) explains Saito's automatic transaction rebroadcasting in the simplest way possible
 * [Poker and the Golden Ticket Lottery](https://www.youtube.com/watch?v=Vim0qeiSVHo) the golden ticket lottery explained with poker
-* [Openness not Decentralization ](https://www.youtube.com/watch?v=C81D6B9sgH8) openness + self-sufficiency are what matter in blockchain
 * [Saito Crypto Explained (A Piece of the Web3 Puzzle)](https://www.youtube.com/watch?v=US4um2nuxfw) Saito is the next wave of open infrastructure for web3
 
 ## Articles
