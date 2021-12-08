@@ -50,6 +50,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [Blockchain Myths #1 — Someone will always pay to run the network](https://saitoofficial.medium.com/blockchain-myths-1-someone-will-always-pay-to-run-the-network-44d3dc56f04a)
 * [Blockchain Myths #2 — A Blockchain is a Permanent Ledger](https://saitoofficial.medium.com/blockchain-myths-2-a-blockchain-is-a-permanent-ledger-fd1e99409df5)
 * [A Response to Paul Krugman from a Keynesian Bitcoiner](https://org.saito.tech/an-response-to-paul-krugman-from-a-keynesian-bitcoiner/)
+* [Organizations 2.0](https://0xluminous.com/organizations-2-0-d1b2330b83e7) Nakamoto Consensus enables organizations to be open and leaderless. Saito Consensus lets them stay that way
 * [Method and system for securing a blockchain with proof-of-transactions](https://patents.google.com/patent/US10230530B2/en) patent #1
 * [Method and System for Implementing Automatic Transaction Rebroadcasting for Transient Blockchains](https://patents.google.com/patent/US20190296915A1/en) patent #2
 
