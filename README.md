@@ -53,6 +53,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [Organizations 2.0](https://0xluminous.com/organizations-2-0-d1b2330b83e7) Nakamoto Consensus enables organizations to be open and leaderless. Saito Consensus lets them stay that way
 * [Method and system for securing a blockchain with proof-of-transactions](https://patents.google.com/patent/US10230530B2/en) patent #1
 * [Method and System for Implementing Automatic Transaction Rebroadcasting for Transient Blockchains](https://patents.google.com/patent/US20190296915A1/en) patent #2
+* [Saito Consensus in Diagrammes](https://docs.google.com/presentation/d/1y2U9SI_18pp_leFZ6K5B4E7-Ein1fuz_ySI6eQNN18M/edit#slide=id.p)
 
 ## Interview Videos
 * [Saito x Mixin Network AMA](https://www.youtube.com/watch?v=0UOxmQrfrB8)
