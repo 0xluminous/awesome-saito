@@ -91,14 +91,14 @@ This is a list of awesome content to get up to speed on Saito.
 * [CoinMarketCap](https://coinmarketcap.com/currencies/saito/)
 * [CoinGecko](https://www.coingecko.com/en/coins/saito)
 * [Uniswap](https://org.saito.tech/saito-ido-guide/)
-* [PancakeSwap] (https://org.saito.tech/buying-selling-and-staking-saito-live-on-pancakeswap/)
+* [PancakeSwap](https://org.saito.tech/buying-selling-and-staking-saito-live-on-pancakeswap/)
 * [Gate](https://www.gate.io/trade/SAITO_USDT)
 * [RelayX](https://relayx.com/market/SAITO)
 * [ERC-20 Contract](https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B)
 * [BEP-20 Contract](https://bscscan.com/address/0x3c6dad0475d3a1696b359dc04c99fd401be134da)
 * [SAITO/ETH Uniswap](https://v2.info.uniswap.org/pair/0xdfcf744c8ae896e8631ba9b9dc717546646f6708)
 * [SAITO/USDT Uniswap](https://info.uniswap.org/#/pools/0x19f83460e387f1b01f94b85c2532ebc15b0b712e)
-* [SAITO/BUSD Pancakeswap] (https://pancakeswap.finance/info/pool/0xc595bea9ba58d0cada5fa287dda4f30517c3e1a4)
+* [SAITO/BUSD Pancakeswap](https://pancakeswap.finance/info/pool/0xc595bea9ba58d0cada5fa287dda4f30517c3e1a4)
 * [Tokenomics](https://saito.io/saito-tokenomics.pdf)
 
 ## Advanced Videos
