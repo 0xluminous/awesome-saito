@@ -8,7 +8,7 @@ Awesome Saito
 
 <a href="https://saito.io/">Saito</a> is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.
 
-This is a list of awesome content to get up to speed on Saito.
+This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](https://saitofaqs.com/) for an easy way to learn about Saito for beginners.
 
 
 ## List of content
@@ -100,6 +100,7 @@ This is a list of awesome content to get up to speed on Saito.
 * [SAITO/USDT Uniswap](https://info.uniswap.org/#/pools/0x19f83460e387f1b01f94b85c2532ebc15b0b712e)
 * [SAITO/BUSD Pancakeswap](https://pancakeswap.finance/info/pool/0xc595bea9ba58d0cada5fa287dda4f30517c3e1a4)
 * [Tokenomics](https://saito.io/saito-tokenomics.pdf)
+* [Saito Hodlers](https://saitohodlers.com/)
 
 ## Advanced Videos
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
