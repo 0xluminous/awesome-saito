@@ -38,6 +38,7 @@ This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](
 * [Saito Whitepaper](https://saito.io/saito-whitepaper.pdf) Saito fixes the collective action problems that impede scaling in proof-of-work and proof-of stake blockchains
 * [Saito Litepaper](https://docs.google.com/viewer?url=https://github.com/SaitoTech/saito-lite/raw/master/docs/saito-litepaper.pdf) lite version of whitepaper
 * [The Zen of Saito](https://medium.com/@0xluminous/the-zen-of-saito-5d7ca977ac4f) Saito is the first blockchain DAO
+* [Disintermediating Network Effects for Fun and Profit](https://medium.com/@0xluminous/disintermediating-network-effects-for-fun-and-profit-fd2a44835013) How to prevent Web3 from ending up like Web2
 * [Saito. Run blockchain applications directly in your browser.](https://medium.com/4svio/saito-303a7884ef18) Saito research article
 * [Transaction Rebroadcasting](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Transaction-Rebroadcasting.pdf) pdf
 * [Routing Work](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Routing-Work.pdf) pdf
