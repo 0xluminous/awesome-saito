@@ -64,6 +64,7 @@ This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](
 * [David Lancashire of Saito](https://www.youtube.com/watch?v=fCnj27Oq3to) discussion about scaling problem, fundraising, and the opportunity to move email, social networks, payment channels, and more to the blockchain.
 * [Solving the trilemma [with Saito's David Lancashire]](https://www.youtube.com/watch?v=SxbCGjjpXeI) Saito aims to solve market failures by incentivizing data sharing directly through the consensus mechanism. 
 * [CryptoKings Saito](https://www.youtube.com/watch?v=wdmRs6ZjFTk) a look into the mind of David, his vision and what drives his ambition in the Crypto sphere
+* [SAITO NETWORK | DEC UPDATE with Richard Parris](https://www.youtube.com/watch?v=itV8IpaDNf8) Discussing all things community, integrations, liquidty, echange listings and more!
 
 ## Applications
 * [Saito Arcade](https://saito.io/arcade/) a dozen games built on Saito including poker, chess, blackjack and more
