@@ -39,6 +39,7 @@ This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](
 * [Saito Litepaper](https://docs.google.com/viewer?url=https://github.com/SaitoTech/saito-lite/raw/master/docs/saito-litepaper.pdf) lite version of whitepaper
 * [The Zen of Saito](https://medium.com/@0xluminous/the-zen-of-saito-5d7ca977ac4f) Saito is the first blockchain DAO
 * [Disintermediating Network Effects for Fun and Profit](https://medium.com/@0xluminous/disintermediating-network-effects-for-fun-and-profit-fd2a44835013) How to prevent Web3 from ending up like Web2
+* [Wesley Kress Saito Twitter thread](https://twitter.com/WesleyBKress/status/1476036638044143623) walks through the the value proposition for Saito in an easy to understand way
 * [Saito. Run blockchain applications directly in your browser.](https://medium.com/4svio/saito-303a7884ef18) Saito research article
 * [Transaction Rebroadcasting](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Transaction-Rebroadcasting.pdf) pdf
 * [Routing Work](https://org.saito.tech/wp-content/uploads/2021/03/Saito-2021-Routing-Work.pdf) pdf
@@ -55,6 +56,7 @@ This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](
 * [Method and system for securing a blockchain with proof-of-transactions](https://patents.google.com/patent/US10230530B2/en) patent #1
 * [Method and System for Implementing Automatic Transaction Rebroadcasting for Transient Blockchains](https://patents.google.com/patent/US20190296915A1/en) patent #2
 * [Saito Consensus in Diagrammes](https://docs.google.com/presentation/d/1y2U9SI_18pp_leFZ6K5B4E7-Ein1fuz_ySI6eQNN18M/edit#slide=id.p)
+
 
 ## Interview Videos
 * [Saito x Mixin Network AMA](https://www.youtube.com/watch?v=0UOxmQrfrB8)
