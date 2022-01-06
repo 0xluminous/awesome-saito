@@ -94,6 +94,7 @@ This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](
 ## Financial
 * [CoinMarketCap](https://coinmarketcap.com/currencies/saito/)
 * [CoinGecko](https://www.coingecko.com/en/coins/saito)
+* [Coinbase Wallet](https://www.coinbase.com/how-to-buy/saito)
 * [Uniswap](https://org.saito.tech/saito-ido-guide/)
 * [PancakeSwap](https://org.saito.tech/buying-selling-and-staking-saito-live-on-pancakeswap/)
 * [Gate](https://www.gate.io/trade/SAITO_USDT)
