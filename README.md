@@ -113,7 +113,7 @@ This is a list of awesome content to get up to speed on Saito. See [Saito FAQs](
 
 ## Advanced Videos
 * [Whiteboard Series with NEAR | Ep: 23 David Lancashire from Saito](https://www.youtube.com/watch?v=KGOZ7udYz0A) 3hr deep dive on Saito internals
-* [Saito for Dummies](https://www.youtube.com/watch?v=bhKe4NSURrc&t=61s) Excellent in-depth introductory video by Arthur Iwaniszyn.
+* [Saito for Dummies](https://www.youtube.com/watch?v=bhKe4NSURrc) Excellent in-depth introductory video by Arthur Iwaniszyn.
 * [Saito solves an age old blockchain problem, scales with growth, and can do well in price (part 1)](https://www.youtube.com/watch?v=8UTfNWH9Ap4) Saito research video
 * [Saito a slightly deeper look... (part 2)](https://www.youtube.com/watch?v=UxlRHHlOHyo) Saito research video #2
 * [Saito, Blockchain Economics and Scaling](https://www.youtube.com/watch?v=r7pyaZqvX0Q) recording of a presentation given by Saito Co-Founder, Richard Parris
